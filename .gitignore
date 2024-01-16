@@ -20,3 +20,5 @@ README.md~
 /webcam-capture-drivers/driver-raspistill/jgoodies-forms-1.8.0-sources.jar
 /webcam-capture-drivers/driver-raspistill/miglayout15-swing.jar
 /webcam-capture-drivers/driver-raspistill/miglayout-src.zip
+.gradle
+build
